@@ -3,6 +3,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.Cinemachine;
+using UnityEditor.PackageManager;
 
 public class DialogueManager : MonoBehaviour
 {
