@@ -427,6 +427,7 @@
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/Dialogue.cs"
 "Assets/Scripts/DialogueManager.cs"
+"Assets/Scripts/DialogueOption.cs"
 "Assets/Scripts/DialogueTrigger.cs"
 "Assets/Scripts/PickUpScript.cs"
 "Assets/Scripts/PlayerController.cs"
